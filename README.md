@@ -10,3 +10,6 @@ I'm too lazy, but I always like something.
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goeun)](https://solved.ac/goeun/)
+
+<h3>discord | sexypoo</h3>
+<h3>email | dev.goeun.park@gmail.com</h3>
