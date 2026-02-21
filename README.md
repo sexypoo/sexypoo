@@ -1,6 +1,14 @@
 ## Hi there 👋
 I'm too lazy, but I always like something.
 
+```
+Korea Digital Media High school (2021-2023)
+Ewha Womans University Department of Computer Science and Engineering (2024-)
+Member of EDOC (Ewha Algorithm Club) (2024.03–2025.06)
+Member of E-COPS (Ewha Cybersecurity Club) (2025.03-2026.02)
+Manager of Altu-bitu (Algorithm Tutor, Department of Computer Science) (2025.08-ing)
+```
+
 ### studying
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <br>
