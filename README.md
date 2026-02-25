@@ -2,11 +2,13 @@
 I'm too lazy, but I always like something.
 
 ```
-Korea Digital Media High school (2021-2023)
-Ewha Womans University Department of Computer Science and Engineering (2024-)
-Member of EDOC (Ewha Algorithm Club) (2024.03–2025.06)
-Member of E-COPS (Ewha Cybersecurity Club) (2025.03-2026.02)
-Manager of Altu-bitu (Algorithm Tutor, Department of Computer Science) (2025.08-ing)
+Korea Digital Media High School | 2021 – 2023
+Ewha Womans University, Computer Science and Engineering | 2024 – Present
+EDOC (Ewha Algorithm Club) | 2024.03 – 2025.06
+  - Executive Officer (or Staff Member) | 2024.08 – 2024.12
+E-COPS (Ewha Cybersecurity Club) | 2025.03 – 2026.02
+Altu-bitu (CS Algorithm Tutoring Program) | 2025.08 – Present
+  - Manager
 ```
 
 ### studying
