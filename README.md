@@ -10,7 +10,6 @@ E-COPS (Ewha Cybersecurity Club) | 2025.03 – 2026.02
 Altu-bitu (CS Algorithm Tutoring Program) | 2025.08 – 2026.06
   - Manager
 UMC (University MakeUs Challenge) | 2026.03 - 2026.08
-  - Node.js
 SWEETS LAB EWHA | 2026.07 - Present
   - Student Intern
 ```
